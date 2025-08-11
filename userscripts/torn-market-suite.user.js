@@ -8,8 +8,8 @@
 // @match        https://www.torn.com/*
 // @run-at       document-idle
 // @grant        GM_addStyle
-// @downloadURL  REPLACE_WITH_YOUR_RAW_URL
-// @updateURL    REPLACE_WITH_YOUR_RAW_URL
+// @downloadURL  chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=16497227-edcf-401e-8a51-d1eaa96217cf
+// @updateURL    chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=16497227-edcf-401e-8a51-d1eaa96217cf
 // ==/UserScript==
 
 (function () {
