@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn Market Suite (Starter)
 // @namespace    https://github.com/<your-username>/<your-repo>
-// @version      0.1.0
+// @version      0.1.1
 // @description  Starter scaffold; updates from GitHub raw
 // @author       BazookaJoe
 // @license      MIT
