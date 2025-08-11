@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn Market Suite (Starter)
 // @namespace https://github.com/BazookaJoe-Torn/Torn-scripts
-// @version      0.1.1
+// @version      0.1.2
 // @description  Starter scaffold; updates from GitHub raw
 // @author       BazookaJoe
 // @license      MIT
